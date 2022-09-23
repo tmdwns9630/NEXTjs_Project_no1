@@ -8,7 +8,7 @@ export default function Page() {
   return (
     <>
       <Layout>
-        <div>hello Boys</div>
+        <div>hello Peter</div>
       </Layout>
     </>
   );
